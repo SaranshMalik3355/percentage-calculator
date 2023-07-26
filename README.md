@@ -1,6 +1,5 @@
 # percentage-calculator
 1.Final output:- **https://percentagecalci.netlify.app**
-
 2. We have used HTML, CSS, JAVASCRIPT to build this project
 3. HTML is simple we have created 3 inputs with id's to make them accessible in javascript
 4. In javascript we have used "KEYUP" event :- The keyup event occurs when the user releases a key on the keyboard.
